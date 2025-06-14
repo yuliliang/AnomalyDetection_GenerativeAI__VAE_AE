@@ -63,7 +63,7 @@ The AE version is a standard encoder-decoder network (also based on ResNet), use
 <br>
 
 ### Example Highlight:
-- **Compact Representations**: Morph one face into another by interpolating between two embeddings, which is the compact representations of images learned by the trained Autoencoder.
+- **Compact Data Representations**: Morph one face into another by interpolating between two embeddings, which are the compact representations of images learned by the trained Autoencoder.
 <div align="center">
 <img src="demo_image/_AE_ResNet_embed2304_AE_img_interpolation_sample.png"/>
 </div>
