@@ -10,7 +10,7 @@ This repository features deep learning models, **a Variational Autoencoder (VAE)
 - Synthetic image generation  
 - Dimensionality reduction using deep embeddings
 
-Both models are based on a custom **ResNet-inspired convolutional neural network architecture** and trained on the [Age, Gender, and Ethnicity facial image dataset](https://www.kaggle.com/datasets/).
+Both models are based on a custom **ResNet-inspired convolutional neural network architecture** and trained on the [Age, Gender, and Ethnicity facial image dataset](https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-face-data-csv) from Kaggle.
 
 <br>
 <br>
